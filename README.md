@@ -1,12 +1,19 @@
 Hava Durumu Gizlilik Politikası
 Gizlilik Politikası
+
 Son güncelleme: 22 Eylül 2024
+
 Bu Gizlilik Politikası, Hizmeti kullandığınızda Bilgilerinizin toplanması, kullanılması ve ifşa edilmesine ilişkin politikalarımızı ve prosedürlerimizi açıklar ve size gizlilik haklarınız ve kanunun sizi nasıl koruduğu hakkında bilgi verir.
 Kişisel verilerinizi Hizmeti sağlamak ve iyileştirmek için kullanırız. Hizmeti kullanarak, bilgilerin bu Gizlilik Politikası uyarınca toplanmasını ve kullanılmasını kabul edersiniz. Bu Gizlilik Politikası , Gizlilik Politikası Oluşturucu yardımıyla oluşturulmuştur .
+
 Yorumlama ve Tanımlar
+
 Tercüme
+
 İlk harfi büyük olan sözcüklerin anlamları aşağıdaki koşullar altında tanımlanmıştır. Aşağıdaki tanımlar, tekil veya çoğul olarak görünmelerine bakılmaksızın aynı anlama sahip olacaktır.
+
 Tanımlar
+
 Bu Gizlilik Politikasının amaçları doğrultusunda:
 •	Hesap, Hizmetimize veya Hizmetimizin bazı bölümlerine erişmeniz için Sizin adınıza oluşturulmuş benzersiz bir hesap anlamına gelir.
 •	Bağlı kuruluş, bir tarafı kontrol eden, onun tarafından kontrol edilen veya onunla ortak kontrol altında olan bir kuruluş anlamına gelir; burada "kontrol", yönetim kurulu üyelerinin veya diğer yönetim makamının seçiminde oy kullanma hakkı veren hisselerin, öz sermaye payının veya diğer menkul kıymetlerin %50 veya daha fazlasına sahip olmak anlamına gelir.
