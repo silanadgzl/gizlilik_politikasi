@@ -1,0 +1,1 @@
+# gizlilik_politikasi
