@@ -1,4 +1,5 @@
 Hava Durumu Gizlilik Politikası
+
 Gizlilik Politikası
 
 Son güncelleme: 22 Eylül 2024
